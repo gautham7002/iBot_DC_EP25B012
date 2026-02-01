@@ -18,10 +18,10 @@ computer-vision-bootcamp/
 │   │   ├── test2.jpg
 │   │   └── test3.jpg
 │   ├── output_sketches/
-│   │   ├── sketch1.jpg
-│   │   ├── sketch2.jpg
-│   │   └── sketch3.jpg
-│   └── README.txt
+│       ├── sketch1.jpg
+│       ├── sketch2.jpg
+│       └── sketch3.jpg
+│   
 │
 ├── Day2_Circle_Detector/
 │   ├── circle_detector.py
@@ -30,29 +30,30 @@ computer-vision-bootcamp/
 │   │   ├── test2.jpg
 │   │   └── test3.jpg
 │   ├── results/
-│   │   ├── result1.jpg
-│   │   ├── result2.jpg
-│   │   ├── result3.jpg
-│   │   └── statistics.txt
-│   └── README.txt
+│       ├── result1.jpg
+│       ├── result2.jpg
+│       ├── result3.jpg
+│       └── statistics.txt
+│   
 │
 └── Day3_Cat_Dog_Classifier/
-    ├── train.py
-    ├── evaluate.py
-    ├── data/
-    │   ├── train/
-    │   │   ├── cats/
-    │   │   └── dogs/
-    │   ├── val/
-    │   │   ├── cats/
-    │   │   └── dogs/
-    │   └── test/
-    │       ├── cats/
-    │       └── dogs/
-    ├── best_model.pth
-    ├── training_curves.png
-    ├── confusion_matrix.png
-    └── README.txt
+|   ├── train.py
+|   ├── evaluate.py
+|   ├── data/
+|   │   ├── train/
+|   │   │   ├── cats/
+|   │   │   └── dogs/
+|   │   ├── val/
+|   │   │   ├── cats/
+|   │   │   └── dogs/
+|   │   └── test/
+|   │       ├── cats/
+|   │       └── dogs/
+|   ├── best_model.pth
+|   ├── training_curves.png
+|   ├── confusion_matrix.png
+|   └── README.txt
+|__data(dataset for Day3_Assignment_Gautham M)
 ```
 
 ---
